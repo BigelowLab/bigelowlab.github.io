@@ -2,7 +2,7 @@
 permalink: /
 title: "Computational Research at Bigelow Laboratory for Ocean Sciences"
 #excerpt: "About me"
-author_profile: true
+author_profile: false
 #redirect_from: 
 #  - /about/
 #  - /about.html

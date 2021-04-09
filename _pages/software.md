@@ -2,7 +2,7 @@
 layout: archive
 title: "Research Tools, Software and Workflows"
 permalink: /software/
-author_profile: true
+#author_profile: true
 ---
 
 Data Portals

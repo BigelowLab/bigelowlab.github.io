@@ -2,7 +2,7 @@
 layout: archive
 title: "Cafe Code"
 permalink: /cafecode/
-author_profile: true
+author_profile: false
 ---
 
 Rough curriculum from summer of code series - maybe include in the education page??
