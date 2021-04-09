@@ -9,7 +9,7 @@ Here are a selection of tools, software and workflows developed at Bigelow Labor
 
 
 # Data Portals (do we want to include this section?)
-=========================
+
 [ecocaster](https://eco.bigelow.org/):
 Experimental crowd-sourced daily forecasts for jellyfish, deer ticks, moose, and other species.
 
@@ -19,7 +19,7 @@ Data portal to view and download eDNA data from samples gathered as part of the 
 
 
 # Software and Workflows
-==========================
+
 
 ## Ocean 'Omics
 

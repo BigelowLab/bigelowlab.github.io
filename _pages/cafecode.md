@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Caf&eacute Code"
+title: "Café Code"
 permalink: /cafecode/
 author_profile: false
 ---
@@ -9,7 +9,7 @@ What do we want here? Suggestions?
 
 One suggestion is details on Summer Intern Program:
 
-# Summer Intern Caf&eacute Code Program 
+# Summer Intern Café Code Program 
 
 Nick - this is copied from the file you put together for last summer if that's OK with you. Could also include the topics we discussed and maybe even links to the slides from last summer??
 
