@@ -1,22 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research Software/Workflows/Tools"
+    url: /software/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: /education/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Cafe Code"
+    url: /cafecode/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
