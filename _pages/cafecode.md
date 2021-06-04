@@ -7,6 +7,11 @@ author_profile: false
 
 What do we want here? Suggestions?
 
+# VIDEO TEST
+
+[!videovideovideo](https://bigelowlab.github.io/files/PdfScrapeTutorial-2021-05-27.mp4)
+
+
 One suggestion is details on Summer Intern Program:
 
 # Summer Intern Café Code Program 
