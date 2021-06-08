@@ -10,7 +10,7 @@ author_profile: false
 
 Computational and data science are transforming the way we study the ocean. The Bigelow Laboratory Data Discovery Initiative’s mission is 
 
-**To use big data and artificial intelligence to integrate across disciplines in complex ocean systems science.**
+**To use data science to integrate across disciplines in complex ocean systems science.**
 
 We value 
 - An interdisciplinary, collaborative approach to solving problems
