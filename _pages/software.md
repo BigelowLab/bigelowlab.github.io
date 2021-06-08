@@ -5,10 +5,10 @@ permalink: /software/
 author_profile: false
 ---
 
-Here are a selection of tools, software and workflows developed at Bigelow Laboratory.
+Here are a selection of tools, software and workflows developed or in development at Bigelow Laboratory.
 
 
-# Data Portals (do we want to include this section?)
+# Data Portals 
 
 [ecocaster](https://eco.bigelow.org/):
 Experimental crowd-sourced daily forecasts for jellyfish, deer ticks, moose, and other species.
