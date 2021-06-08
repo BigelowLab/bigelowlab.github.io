@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science at Bigelow Laboratory for Ocean Sciences"
+title                    : "DBigelow Laboratory for Ocean Sciences -- Data Discovery Initiative"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
