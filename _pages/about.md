@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational Research at Bigelow Laboratory for Ocean Sciences"
+title: "Bigelow Laboratory for Ocean Sciences -- Data Discovery Initiative"
 #excerpt: "About me"
 author_profile: false
 #redirect_from: 
