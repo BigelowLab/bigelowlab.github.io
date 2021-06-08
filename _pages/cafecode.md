@@ -18,21 +18,19 @@ One suggestion is details on Summer Intern Program:
 
 Nick - this is copied from the file you put together for last summer if that's OK with you. Could also include the topics we discussed and maybe even links to the slides from last summer??
 
-## Articles to discuss
+## Summer Articles
 
-[What do we do with all this big data?](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data/transcript#t-26273) (TED talk)
-
-[What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
-
-[The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
-
-[AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
-
-[Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/) (Video)
-
-[Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
-
-[In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
+- [What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
+- [AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
+- [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
+- [In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
+- https://www.sciencemag.org/news/2016/09/can-predictive-policing-prevent-crime-it-happens
+- https://www.govtech.com/public-safety/LAPD-Predictive-Policing-Tool-Raises-Racial-Bias-Concerns.html
+- https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained
+- https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
+- [Does ocean acidification alter fish behavior? Fraud allegations create a sea of doubt](https://www.sciencemag.org/news/2021/05/does-ocean-acidification-alter-fish-behavior-fraud-allegations-create-sea-doubt)
+- [Uncovering Big Data Bias in Sustainability Science](https://umaine.edu/spire/2021/03/29/bigdatabias/)
+- [A Manifesto for Algorithms in the Environment](https://www.theguardian.com/science/political-science/2015/oct/05/a-manifesto-for-algorithms-in-the-environment)
 
 ## Code Resources
 
@@ -44,6 +42,8 @@ Nick - this is copied from the file you put together for last summer if that's O
 
 ## Videos and TED talks
 
+- [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/)
+- [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
 - [Dr. Esther: Highlighting underrespresented scientists, researchers, innovators and more](https://www.youtube.com/channel/UCO8fHSJrOnGZCZ19HvGvSLA)
 - [AI Literacy, or Why Understanding AI Will Help You Every Day (Jordan Harrod)](https://www.ted.com/talks/jordan_harrod_ai_literacy_or_why_understanding_ai_will_help_you_every_day)
 - [The beauty of data visualization (David McCandless)](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization#t-1074329)
@@ -53,6 +53,17 @@ Nick - this is copied from the file you put together for last summer if that's O
 - [What do we do with all this big data? (Susan Etlinger)](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
 - [Gender imbalance in computer science](https://www.facebook.com/NPR/videos/10156691618936756/)
 - [The developer migration](https://www.youtube.com/watch?reload=9&v=xp6UCQvKKzI)
+
+## Books 
+- [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor , Virginia Eubanks](https://us.macmillan.com/books/9781250074317)
+- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil](https://weaponsofmathdestructionbook.com/)
+- [You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place, Janelle Shane](https://en.wikipedia.org/wiki/You_Look_Like_a_Thing_and_I_Love_You)
+- [Invisible Women: Exposing Data Bias in a World Designed for Men, Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/)
+- [Life in Code: A Personal History of Technology, Ellen Ullman](https://us.macmillan.com/books/9780374534516)
+- [Close to the Machine: Technophilia and its Discontents, Ellen Ullman](https://us.macmillan.com/books/9781250002488)
+- ["Raw Data" Is an Oxymoron, Lisa Gitelman (ed)](https://mitpress.mit.edu/books/raw-data-oxymoron)
+- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, Shoshana Zuboff](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
+- [Race After Technology: Abolitionist Tools for the New Jim Code, Ruha Benjamin](https://www.wiley.com/en-us/Race+After+Technology%3A+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526406)
 
 
 
