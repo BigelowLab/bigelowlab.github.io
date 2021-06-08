@@ -5,21 +5,23 @@ permalink: /cafecode/
 author_profile: false
 ---
 
-What do we want here? Suggestions?
 
-# VIDEO TEST
+# Summer Intern Café Code Program 
+
+We welcome anyone to use our summer intern Café Code curriculum. It's a flexible, choose-your-own-adventure curriculum. Here is a quick how-to:
+
+1. Choose a weekly meeting time
+2. Each week's meeting has three components:
+   - **A short (10-20 min) tutorial** - These should be provided at a level that is accessible to everyone, even people with no coding experience. The idea is to open the door, and point to further resources for people who want to dig in. We record and save our video tuturials, so you can use the videos in the list below, or design your own.
+   - **Reading discussion** - In advance of the meeting time, assign a reading from the "Articles" list below, or a video from the "Videos and TED talks" list below. These articles and videos cover many of the big picture issues concerning algorithms in science and society. This can be a open discussion, much like in a classroom.
+   - **Open questions** - Students are encouraged to bring coding or related questions. These can be answered as a group, or students and mentors can break up into smaller groups to work through questions.
+
+## Video Tutorials
 
 [!videovideovideo](https://bigelowlab.github.io/files/PdfScrapeTutorial-2021-05-27.mp4)
 
 
-One suggestion is details on Summer Intern Program:
-
-# Summer Intern Café Code Program 
-
-Nick - this is copied from the file you put together for last summer if that's OK with you. Could also include the topics we discussed and maybe even links to the slides from last summer??
-
-## Summer Articles
-
+## Articles
 - [What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
 - [AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
@@ -32,16 +34,7 @@ Nick - this is copied from the file you put together for last summer if that's O
 - [Uncovering Big Data Bias in Sustainability Science](https://umaine.edu/spire/2021/03/29/bigdatabias/)
 - [A Manifesto for Algorithms in the Environment](https://www.theguardian.com/science/political-science/2015/oct/05/a-manifesto-for-algorithms-in-the-environment)
 
-## Code Resources
-
-- [Python for Beginners](https://www.python.org/about/gettingstarted/)
-- [R Studio cheat sheets](https://www.rstudio.com/resources/cheatsheets/)
-- [Git primer](https://docs.google.com/presentation/d/1UUryfefKXFIRJhI4UaY1LnhBdqjjzbGngRDm-ucAQtY/edit#slide=id.gc6f73a04f_0_20)
-- [Cheat sheet for Unix / Mac](https://learntocodewith.me/command-line/unix-command-cheat-sheet/)
-- [Cheat sheet for Windows command prompt / DOS](http://simplyadvanced.net/blog/cheat-sheet-for-windows-command-prompt/)
-
 ## Videos and TED talks
-
 - [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/)
 - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
 - [Dr. Esther: Highlighting underrespresented scientists, researchers, innovators and more](https://www.youtube.com/channel/UCO8fHSJrOnGZCZ19HvGvSLA)
@@ -53,6 +46,13 @@ Nick - this is copied from the file you put together for last summer if that's O
 - [What do we do with all this big data? (Susan Etlinger)](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
 - [Gender imbalance in computer science](https://www.facebook.com/NPR/videos/10156691618936756/)
 - [The developer migration](https://www.youtube.com/watch?reload=9&v=xp6UCQvKKzI)
+
+## Code Resources
+- [Python for Beginners](https://www.python.org/about/gettingstarted/)
+- [R Studio cheat sheets](https://www.rstudio.com/resources/cheatsheets/)
+- [Git primer](https://docs.google.com/presentation/d/1UUryfefKXFIRJhI4UaY1LnhBdqjjzbGngRDm-ucAQtY/edit#slide=id.gc6f73a04f_0_20)
+- [Cheat sheet for Unix / Mac](https://learntocodewith.me/command-line/unix-command-cheat-sheet/)
+- [Cheat sheet for Windows command prompt / DOS](http://simplyadvanced.net/blog/cheat-sheet-for-windows-command-prompt/)
 
 ## Books 
 - [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor , Virginia Eubanks](https://us.macmillan.com/books/9781250074317)
