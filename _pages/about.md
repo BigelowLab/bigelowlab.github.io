@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bigelow Laboratory for Ocean Sciences -- Data Discovery Initiative"
+title: "Bigelow Laboratory Data Discovery Initiative"
 #excerpt: "About me"
 author_profile: false
 #redirect_from: 
