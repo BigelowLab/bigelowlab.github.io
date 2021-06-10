@@ -19,7 +19,7 @@ We welcome anyone to use our summer intern Café Code curriculum. It's a flexibl
 
 ## Video Tutorials
 
-[!videovideovideo](https://bigelowlab.github.io/files/PdfScrapeTutorial-2021-05-27.mp4)
+- [Reproducible and Replicable Research](https://drive.google.com/file/d/1I_Fuz2bNG0rHi8ZH72szMeftNTCJO7I6/view?usp=sharing)
 
 
 ## Articles
