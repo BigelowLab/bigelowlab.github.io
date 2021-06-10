@@ -12,7 +12,7 @@ We welcome anyone to use our summer intern Café Code curriculum. It's a flexibl
 
 1. Choose a weekly meeting time
 2. Each week's meeting has three components:
-   - **A short (10-20 min) tutorial** - These should be provided at a level that is accessible to everyone, even people with no coding experience. The idea is to open the door, and point to further resources for people who want to dig in. We record and save our video tutorials, so you can use the videos in the list below, or design your own.
+   - **A short (10-20 min) tutorial** - These should be provided at a level that is accessible to everyone, even people with no coding experience. The idea is to open the door, and point to further resources for people who want to dig in. We record and save our video tutorials, so you can use the videos in the "Video Tutorials" list below, or design your own. 
    - **Reading discussion** - In advance of the meeting time, assign a reading from the "Articles" list below, or a video from the "Videos and TED talks" list below. These articles and videos cover many of the big picture issues concerning algorithms in science and society. This can be a open discussion, much like in a classroom.
    - **Open questions** - Students are encouraged to bring coding or related questions. These can be answered as a group, or students and mentors can break up into smaller groups to work through questions.
 3. Use the other resources (code, books, etc.) as you'd like
