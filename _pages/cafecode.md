@@ -27,10 +27,11 @@ We welcome anyone to use our summer intern Café Code curriculum. It's a flexibl
 - [AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
 - [In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
-- https://www.sciencemag.org/news/2016/09/can-predictive-policing-prevent-crime-it-happens
-- https://www.govtech.com/public-safety/LAPD-Predictive-Policing-Tool-Raises-Racial-Bias-Concerns.html
-- https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained
-- https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
+- Predictive policing articles:
+   - [Can ‘predictive policing’ prevent crime before it happens?](https://www.sciencemag.org/news/2016/09/can-predictive-policing-prevent-crime-it-happens)
+   - [LAPD Predictive Policing Tool Raises Racial Bias Concerns](https://www.govtech.com/public-safety/LAPD-Predictive-Policing-Tool-Raises-Racial-Bias-Concerns.html)
+   - [Predictive Policing Explained](https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained)
+   - https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
 - [Does ocean acidification alter fish behavior? Fraud allegations create a sea of doubt](https://www.sciencemag.org/news/2021/05/does-ocean-acidification-alter-fish-behavior-fraud-allegations-create-sea-doubt)
 - [Uncovering Big Data Bias in Sustainability Science](https://umaine.edu/spire/2021/03/29/bigdatabias/)
 - [A Manifesto for Algorithms in the Environment](https://www.theguardian.com/science/political-science/2015/oct/05/a-manifesto-for-algorithms-in-the-environment)
