@@ -20,7 +20,7 @@ We welcome anyone to use our summer intern Café Code curriculum. It's a flexibl
 ## Video Tutorials
 
 - [Reproducible and Replicable Research](https://drive.google.com/file/d/1I_Fuz2bNG0rHi8ZH72szMeftNTCJO7I6/view?usp=sharing)
-
+- [Artificial Intelligence](https://drive.google.com/file/d/1NJBcIoaTPFnX7S-VExU1GvSqDan6H1iZ/view?usp=sharing)
 
 ## Articles
 - [What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
