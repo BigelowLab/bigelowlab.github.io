@@ -35,6 +35,7 @@ We welcome anyone to use our summer intern Café Code curriculum. It's a flexibl
 - [Does ocean acidification alter fish behavior? Fraud allegations create a sea of doubt](https://www.sciencemag.org/news/2021/05/does-ocean-acidification-alter-fish-behavior-fraud-allegations-create-sea-doubt)
 - [Uncovering Big Data Bias in Sustainability Science](https://umaine.edu/spire/2021/03/29/bigdatabias/)
 - [A Manifesto for Algorithms in the Environment](https://www.theguardian.com/science/political-science/2015/oct/05/a-manifesto-for-algorithms-in-the-environment)
+- [How an Algorithm Blocked Kidney Transplants to Black Patients](https://www.wired.com/story/how-algorithm-blocked-kidney-transplants-black-patients/?mbid=social_twitter&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned&utm_source=twitter)
 
 ## Videos and TED talks
 - [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/)
